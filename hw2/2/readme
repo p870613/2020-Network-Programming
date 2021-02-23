@@ -1,0 +1,10 @@
+1. shell() -> exit is close fd(o)
+2. number_pipe(o)
+3. env_set(o)
+4. build_in_cmd output(o)
+5. tell ex: tell n str(o)
+6. yell ex: yell str(o)
+7. cat >n => go to user n as output (o)
+8. cat <n => receive use n as input (o)
+9. output %
+10. user pipe error
